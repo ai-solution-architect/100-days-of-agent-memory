@@ -68,8 +68,8 @@ hashtag#𝟏𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐀𝐠𝐞𝐧𝐭𝐌𝐞𝐦𝐨
 ---
 
 ### 𝐃𝐚𝐲 𝟑/𝟏𝟎𝟎 𝐨𝐟 𝐀𝐠𝐞𝐧𝐭 𝐌𝐞𝐦𝐨𝐫𝐲
-
 [post](https://www.linkedin.com/posts/richmondalake_100daysofagentmemory-ai-agentmemory-activity-7346687979605647360-lRaR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQRyLsBkSAisgCJmXavcznDzyDTxIecxnk)
+
 Let's get you explaining Agent Memory like a pro.
 
 Before we dive deeper into Agent Memory
@@ -104,8 +104,8 @@ hashtag#𝟏𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐀𝐠𝐞𝐧𝐭𝐌𝐞𝐦𝐨
 ---
 
 ### 𝐃𝐚𝐲 𝟒/𝟏𝟎𝟎 𝐨𝐟 𝐀𝐠𝐞𝐧𝐭 𝐌𝐞𝐦𝐨𝐫𝐲
-
 [post](https://www.linkedin.com/posts/richmondalake_agent-memory-application-mode-activity-7347050219009695744-jaVE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQRyLsBkSAisgCJmXavcznDzyDTxIecxnk)
+
 Let's talk about Application mode 
 Their importance and how they map to Memory Types.
 
@@ -139,8 +139,8 @@ hashtag#𝟏𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐀𝐠𝐞𝐧𝐭𝐌𝐞𝐦𝐨
 ---
 
 ### 𝐃𝐚𝐲 𝟓/𝟏𝟎𝟎 𝐨𝐟 𝐀𝐠𝐞𝐧𝐭 𝐌𝐞𝐦𝐨𝐫𝐲
-
 [post](https://www.linkedin.com/posts/richmondalake_100daysofagentmemory-100daysofagentmemory-activity-7347420372973084672-BiSo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQRyLsBkSAisgCJmXavcznDzyDTxIecxnk)
+
 The best way to learn is to build.
 So I'm building MemoRizz.
 
