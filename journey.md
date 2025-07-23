@@ -31,6 +31,7 @@ Day 1 starts now. 🧠
 
 ### 𝐃𝐚𝐲 𝟐/𝟏𝟎𝟎 𝐨𝐟 𝐀𝐠𝐞𝐧𝐭 𝐌𝐞𝐦𝐨𝐫𝐲
 [post](https://www.linkedin.com/posts/richmondalake_moving-beyond-context-engineering-activity-7346263709477969920-6-7r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQRyLsBkSAisgCJmXavcznDzyDTxIecxnk)
+
 𝐅𝐫𝐨𝐦 𝐂𝐨𝐧𝐭𝐞𝐱𝐭 𝐭𝐨 𝐌𝐞𝐦𝐨𝐫𝐲 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠
 Context Engineering is the buzzword of the week in AI circles, and for good reason. We're finally getting closer to the real work that needs to be done, but we need to go one step further to build truly reliable, believable, and capable AI agents.
 
